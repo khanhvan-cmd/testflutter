@@ -2,35 +2,112 @@
   "notes": [
     {
       "id": 1,
-      "title": "Ghi chú 1",
-      "content": "Nội dung ghi chú 1",
-      "priority": 1,
+      "title": "Họp nhóm dự án",
+      "content": "Chuẩn bị nội dung họp nhóm cho dự án phát triển ứng dụng, phân công nhiệm vụ cho từng thành viên.",
+      "priority": 3,
       "createdAt": "2025-04-11T12:00:00Z",
       "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "tag1,tag2",
+      "tags": "công việc,họp nhóm",
       "color": "FF0000",
       "isCompleted": 0
     },
     {
       "id": 2,
-      "title": "Ghi chú 2",
-      "content": "Nội dung ghi chú 2",
+      "title": "Mua sắm cuối tuần",
+      "content": "Lên danh sách mua sắm: gạo, dầu ăn, rau củ, thịt cá cho tuần tới. Đi siêu thị vào sáng thứ Bảy.",
       "priority": 2,
       "createdAt": "2025-04-11T12:00:00Z",
       "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "tag3",
+      "tags": "sinh hoạt,mua sắm",
       "color": "00FF00",
       "isCompleted": 0
     },
     {
       "id": 3,
-      "title": "Ghi chú 3",
-      "content": "Nội dung ghi chú 1",
+      "title": "Ôn tập bài kiểm tra",
+      "content": "Ôn lại các chương 1-5 môn Toán, làm bài tập trang 45-50, chuẩn bị cho kiểm tra vào thứ Hai.",
+      "priority": 3,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "học tập,kiểm tra",
+      "color": "FFA500",
+      "isCompleted": 0
+    },
+    {
+      "id": 4,
+      "title": "Gọi điện cho khách hàng",
+      "content": "Liên hệ với anh Nam để xác nhận lịch giao hàng vào thứ Tư, chuẩn bị hợp đồng trước khi gọi.",
+      "priority": 2,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "công việc,khách hàng",
+      "color": "0000FF",
+      "isCompleted": 0
+    },
+    {
+      "id": 5,
+      "title": "Tập thể dục buổi sáng",
+      "content": "Chạy bộ 30 phút ở công viên, sau đó tập yoga 15 phút để khởi động ngày mới.",
       "priority": 1,
       "createdAt": "2025-04-11T12:00:00Z",
       "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "tag1,tag2",
-      "color": "FF0000",
+      "tags": "sức khỏe,thể dục",
+      "color": "FFFF00",
+      "isCompleted": 0
+    },
+    {
+      "id": 6,
+      "title": "Hoàn thành báo cáo tuần",
+      "content": "Viết báo cáo tiến độ tuần này, gửi cho sếp trước 5h chiều thứ Sáu.",
+      "priority": 3,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "công việc,báo cáo",
+      "color": "FF00FF",
+      "isCompleted": 0
+    },
+    {
+      "id": 7,
+      "title": "Đọc sách phát triển bản thân",
+      "content": "Đọc 20 trang sách '7 Thói quen hiệu quả', ghi chú các ý chính vào sổ tay.",
+      "priority": 1,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "học tập,phát triển",
+      "color": "00FFFF",
+      "isCompleted": 0
+    },
+    {
+      "id": 8,
+      "title": "Đặt lịch khám sức khỏe",
+      "content": "Gọi bệnh viện để đặt lịch khám tổng quát vào cuối tháng, ưu tiên sáng thứ Ba.",
+      "priority": 2,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "sức khỏe,đặt lịch",
+      "color": "800080",
+      "isCompleted": 0
+    },
+    {
+      "id": 9,
+      "title": "Chuẩn bị sinh nhật cho con",
+      "content": "Mua bánh sinh nhật, bóng bay, và quà tặng cho bé. Tổ chức vào tối thứ Bảy tại nhà.",
+      "priority": 3,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "gia đình,sinh nhật",
+      "color": "FFC0CB",
+      "isCompleted": 0
+    },
+    {
+      "id": 10,
+      "title": "Học từ vựng tiếng Anh",
+      "content": "Học 20 từ vựng mới về chủ đề công nghệ, ôn lại bằng flashcard vào tối nay.",
+      "priority": 2,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "học tập,tiếng Anh",
+      "color": "008000",
       "isCompleted": 0
     }
   ]
