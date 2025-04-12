@@ -98,17 +98,6 @@
       "tags": "gia đình,sinh nhật",
       "color": "FFC0CB",
       "isCompleted": 0
-    },
-    {
-      "id": 10,
-      "title": "Học từ vựng tiếng Anh",
-      "content": "Học 20 từ vựng mới về chủ đề công nghệ, ôn lại bằng flashcard vào tối nay.",
-      "priority": 2,
-      "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "học tập,tiếng Anh",
-      "color": "008000",
-      "isCompleted": 0
     }
   ]
 }
