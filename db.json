@@ -23,14 +23,21 @@
       "color": "00FF00",
       "isCompleted": 0,
       "imagePath": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
-    }, 
+    },
     {
       "id": 3,
       "title": "Ôn tập bài kiểm tra",
       "content": "Ôn lại các chương 1-5 môn Toán, làm bài tập trang 45-50, chuẩn bị cho kiểm tra vào thứ Hai.",
       "priority": 3,
       "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "202khách,
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "học tập,toán",
+      "color": "0000FF",
+      "isCompleted": 0,
+      "imagePath": "https://images.unsplash.com/photo-1610431737384-7b2d5a929c5c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
       "title": "Đặt lịch khám sức khỏe",
       "content": "Gọi bệnh viện để đặt lịch khám tổng quát vào cuối tháng, ưu tiên sáng thứ Ba.",
       "priority": 2,
@@ -40,6 +47,66 @@
       "color": "800080",
       "isCompleted": 0,
       "imagePath": "https://vienhuyethoc.vn/wp-content/uploads/2022/08/Dat-lich-hen-kham-theo-yeu-cau-Vien-Huyet-hoc-1024x628.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Viết báo cáo tuần",
+      "content": "Tổng hợp tiến độ công việc trong tuần, hoàn thiện báo cáo để gửi trưởng nhóm vào thứ Sáu.",
+      "priority": 2,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "công việc,báo cáo",
+      "color": "FFA500",
+      "isCompleted": 0,
+      "imagePath": "https://images.unsplash.com/photo-1554224154-22dec7ec8818?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 6,
+      "title": "Tập thể dục buổi sáng",
+      "content": "Thực hiện các bài tập nhẹ: chạy bộ, giãn cơ trong 30 phút vào mỗi sáng.",
+      "priority": 1,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "sức khỏe,vận động",
+      "color": "ADD8E6",
+      "isCompleted": 0,
+      "imagePath": "https://images.unsplash.com/photo-1584467735871-b0fbb0c1d7c1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 7,
+      "title": "Học tiếng Anh",
+      "content": "Luyện nghe và nói qua phim ngắn, ghi chú từ vựng mới mỗi ngày.",
+      "priority": 2,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "học tập,tiếng Anh",
+      "color": "4682B4",
+      "isCompleted": 0,
+      "imagePath": "https://images.unsplash.com/photo-1573497019124-95b1c9dd4c1c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 8,
+      "title": "Dọn dẹp nhà cửa",
+      "content": "Lau sàn, dọn phòng khách và phòng ngủ vào chiều Chủ Nhật.",
+      "priority": 1,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "sinh hoạt,nhà cửa",
+      "color": "C0C0C0",
+      "isCompleted": 0,
+      "imagePath": "https://images.unsplash.com/photo-1581578017420-94f9e9f1771e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 9,
+      "title": "Lên kế hoạch tuần tới",
+      "content": "Ghi chú các công việc, cuộc hẹn và mục tiêu cần đạt được cho tuần mới.",
+      "priority": 2,
+      "createdAt": "2025-04-11T12:00:00Z",
+      "modifiedAt": "2025-04-11T12:00:00Z",
+      "tags": "công việc,kế hoạch",
+      "color": "FFD700",
+      "isCompleted": 0,
+      "imagePath": "https://images.unsplash.com/photo-1587614382346-ac23b7f1c0f1?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
     },
     {
       "id": 10,
