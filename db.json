@@ -23,7 +23,7 @@
       "color": "00FF00",
       "isCompleted": 0,
       "imagePath": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
-    },
+    }, 
     {
       "id": 3,
       "title": "Ôn tập bài kiểm tra",
@@ -39,53 +39,7 @@
     {
       "id": 4,
       "title": "Gọi điện cho khách hàng",
-      "content": "Liên hệ với anh Nam để xác nhận lịch giao hàng vào thứ Tư, chuẩn bị hợp đồng trước khi gọi.",
-      "priority": 2,
-      "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "công việc,khách hàng",
-      "color": "0000FF",
-      "isCompleted": 0,
-      "imagePath": "https://images.unsplash.com/photo-1596524430615-b46475ddff6e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 5,
-      "title": "Tập thể dục buổi sáng",
-      "content": "Chạy bộ 30 phút ở công viên, sau đó tập yoga 15 phút để khởi động ngày mới.",
-      "priority": 1,
-      "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "sức khỏe,thể dục",
-      "color": "FFFF00",
-      "isCompleted": 0,
-      "imagePath": "https://images.unsplash.com/photo-1594737625785-a6cbdabd333c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 6,
-      "title": "Hoàn thành báo cáo tuần",
-      "content": "Viết báo cáo tiến độ tuần này, gửi cho sếp trước 5h chiều thứ Sáu.",
-      "priority": 3,
-      "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "công việc,báo cáo",
-      "color": "FF00FF",
-      "isCompleted": 0,
-      "imagePath": "https://vinno.vn/sites/default/files/35/mau-bao-cao-thanh-tich-slimcrm_5.png"
-    },
-    {
-      "id": 7,
-      "title": "Đọc sách phát triển bản thân",
-      "content": "Đọc 20 trang sách '7 Thói quen hiệu quả', ghi chú các ý chính vào sổ tay.",
-      "priority": 1,
-      "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "học tập,phát triển",
-      "color": "00FFFF",
-      "isCompleted": 0,
-      "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6OficQn8I4Czn0-Pn_CiCwxfhl752dJ4gBA&s"
-    },
-    {
-      "id": 8,
+      "content": "Liên hệ với anh Na9,
       "title": "Đặt lịch khám sức khỏe",
       "content": "Gọi bệnh viện để đặt lịch khám tổng quát vào cuối tháng, ưu tiên sáng thứ Ba.",
       "priority": 2,
@@ -97,7 +51,7 @@
       "imagePath": "https://vienhuyethoc.vn/wp-content/uploads/2022/08/Dat-lich-hen-kham-theo-yeu-cau-Vien-Huyet-hoc-1024x628.jpg"
     },
     {
-      "id": 9,
+      "id": 10,
       "title": "Chuẩn bị sinh nhật cho con",
       "content": "Mua bánh sinh nhật, bóng bay, và quà tặng cho bé. Tổ chức vào tối thứ Bảy tại nhà.",
       "priority": 3,
