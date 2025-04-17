@@ -30,16 +30,7 @@
       "content": "Ôn lại các chương 1-5 môn Toán, làm bài tập trang 45-50, chuẩn bị cho kiểm tra vào thứ Hai.",
       "priority": 3,
       "createdAt": "2025-04-11T12:00:00Z",
-      "modifiedAt": "2025-04-11T12:00:00Z",
-      "tags": "học tập,kiểm tra",
-      "color": "FFA500",
-      "isCompleted": 0,
-      "imagePath": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80"
-    },
-    {
-      "id": 4,
-      "title": "Gọi điện cho khách hàng",
-      "content": "Liên hệ với anh Na9,
+      "modifiedAt": "202khách,
       "title": "Đặt lịch khám sức khỏe",
       "content": "Gọi bệnh viện để đặt lịch khám tổng quát vào cuối tháng, ưu tiên sáng thứ Ba.",
       "priority": 2,
