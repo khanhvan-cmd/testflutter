@@ -2,7 +2,7 @@
   "notes": [
     {     
       "id": 1,
-      "title": "Họp nhóm dự án",
+      "title": "Họp nhóm dự án", 
       "content": "Chuẩn bị nội dung họp nhóm cho dự án phát triển ứng dụng, phân công nhiệm vụ cho từng thành viên.",
       "priority": 3,
       "createdAt": "2025-04-11T12:00:00Z",
